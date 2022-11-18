@@ -1,0 +1,32 @@
+@media(max-width:575px){
+    /* nav-top part start */
+    .top_nav_icon a i {
+        width: 28px !important;
+        height: 28px;
+        line-height: 28px;
+        text-align: center;
+        border-radius: 50%;
+        background-color: #3183D7;
+        font-size: 16px;
+        border-radius: 50%;
+        color: white;
+        margin: 5px 1px;
+    }
+    /* nav-top part end */
+}
+@media(max-width:767.98px){
+	
+}
+@media(min-width:768px) and (max-width:991px){
+    
+}
+@media(min-width:992px) and (max-width:1199px){
+
+}
+@media(min-width:1200px) and (max-width:1399px){
+
+}
+
+@media(max-width:1400px){
+
+}
